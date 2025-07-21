@@ -1,1 +1,22 @@
 # python-basic-learning
+- [0_Python - Output Statements.ipynb](0_Python - Output Statements.ipynb) - This notebook covers the basics of output statements in Python, including the print() function, separators, and end-of-line characters.
+- [1_Python - Input Statements.ipynb](1_Python - Input Statements.ipynb) - This notebook explains how to take input from the user in Python.
+- [2_Python - Modules and Packages.ipynb](2_Python - Modules and Packages.ipynb) - This notebook covers the basics of modules and packages in Python.
+- [3_Python - Data Types and Type casting.ipynb](3_Python - Data Types and Type casting.ipynb) - This notebook explains the different data types in Python and how to convert between them.
+- [4_Python - Variables, Expressions _ Statements.ipynb](4_Python - Variables, Expressions _ Statements.ipynb) - This notebook covers the basics of variables, expressions, and statements in Python.
+- [5_Python - Strings.ipynb](5_Python - Strings.ipynb) - This notebook explains how to work with strings in Python.
+- [6_Python - Strings Operations.ipynb](6_Python - Strings Operations.ipynb) - This notebook covers the various operations that can be performed on strings in Python.
+- [7_Python - Lists.ipynb](7_Python - Lists.ipynb) - This notebook explains how to work with lists in Python.
+- [8_Python - Iterative  Executions.ipynb](8_Python - Iterative  Executions.ipynb) - This notebook covers the basics of iterative executions in Python, such as for and while loops.
+- [8_Python - Lists Operations.ipynb](8_Python - Lists Operations.ipynb) - This notebook covers the various operations that can be performed on lists in Python.
+- [9_Python - Sets.ipynb](9_Python - Sets.ipynb) - This notebook explains how to work with sets in Python.
+- [10_Python - Tuples.ipynb](10_Python - Tuples.ipynb) - This notebook explains how to work with tuples in Python.
+- [11_Python - Dictionaries.ipynb](11_Python - Dictionaries.ipynb) - This notebook explains how to work with dictionaries in Python.
+- [12_Python - Conditional Executions.ipynb](12_Python - Conditional Executions.ipynb) - This notebook covers the basics of conditional executions in Python, such as if-else statements.
+- [13_Python -File Opening S3.ipynb](13_Python -File Opening S3.ipynb) - This notebook explains how to open files from S3 in Python.
+- [14_Python-File Writing S3.ipynb](14_Python-File Writing S3.ipynb) - This notebook explains how to write files to S3 in Python.
+- [15_Python-Operations on file contents S3.ipynb](15_Python-Operations on file contents S3.ipynb) - This notebook covers the various operations that can be performed on file contents from S3 in Python.
+- [16_Functions calls S3.ipynb](16_Functions calls S3.ipynb) - This notebook explains how to call functions from S3 in Python.
+- [17_Built in Functions S3.ipynb](17_Built in Functions S3.ipynb) - This notebook covers the built-in functions available in Python for S3.
+- [18_Custom Functions S3.ipynb](18_Custom Functions S3.ipynb) - This notebook explains how to create custom functions for S3 in Python.
+- [19_Parameters and Arguments S3.ipynb](19_Parameters and Arguments S3.ipynb) - This notebook covers the basics of parameters and arguments for S3 functions in Python.
